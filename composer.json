@@ -1,0 +1,13 @@
+{
+    "name": "root/php-templating",
+    "authors": [
+        {
+            "name": "Gyozmo",
+            "email": "binantguillaume@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.5",
+        "fzaninotto/faker": "^1.8"
+    }
+}
