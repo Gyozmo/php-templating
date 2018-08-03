@@ -16,5 +16,4 @@ echo $twig -> render("index.html",array(
     "company" => $faker->company,
     "catchPhrase" => $faker->catchPhrase,
 ));
-
 ?>
